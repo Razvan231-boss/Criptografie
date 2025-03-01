@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\razva\OneDrive\Desktop\Criptografie\Conversie_baze\Conversie_baze\Source.cpp(11,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Conversie_baze.vcxproj -> C:\Users\razva\OneDrive\Desktop\Criptografie\Conversie_baze\x64\Debug\Conversie_baze.exe
