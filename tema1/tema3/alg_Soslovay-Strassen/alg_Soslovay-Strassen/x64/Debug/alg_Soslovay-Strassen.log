@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\razva\OneDrive\Desktop\Criptografie\tema3\alg_Soslovay-Strassen\alg_Soslovay-Strassen\Source.cpp(47,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\razva\OneDrive\Desktop\Criptografie\tema3\alg_Soslovay-Strassen\alg_Soslovay-Strassen\Source.cpp(52,49): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+  alg_Soslovay-Strassen.vcxproj -> C:\Users\razva\OneDrive\Desktop\Criptografie\tema3\alg_Soslovay-Strassen\x64\Debug\alg_Soslovay-Strassen.exe
